@@ -43,6 +43,8 @@ Caso o seu sistema seja Windows baixe o arquivo que lhe for mostrado.
 
 ![Step 6 screenshot](/images/extension%20working.png)
 
+Para garantia de funcionamento do módulo da extensão da Bry funcionar corretamente é recomendado que a máquina seja reiniciada.
+
 
 <br/>
 
